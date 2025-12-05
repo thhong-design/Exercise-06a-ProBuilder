@@ -4,4 +4,7 @@
 
 Textures from: https://freepbr.com/
 
-# Created by Nathan Mishler
+# Created by Tyler Hong
+
+I could not get the camera to follow the player
+
